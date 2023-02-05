@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kinopoisk</string>
+    <string name="year">year = </string>
+    <string name="save">Скачать постер</string>
+    <string name="open">(</string>
+    <string name="close">)</string>
+    <string name="genres"><b>Жанры:</b></string>
+    <string name="countries"><b>Страны:</b></string>
+    <string name="save_film">Добавить в избранное</string>
+    <string name="search">Search</string>
+</resources>
